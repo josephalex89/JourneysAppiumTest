@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54429" started-at="2020-09-16T03:43:51Z" finished-at="2020-09-16T03:44:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54429" started-at="2020-09-16T03:43:51Z" finished-at="2020-09-16T03:44:46Z">
+      <class name="com.appium.journeystests.RegistrationTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.appium.journeystests.RegistrationTest@1df90b0]" name="setup" is-config="true" duration-ms="9696" started-at="2020-09-16T03:43:51Z" finished-at="2020-09-16T03:44:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registration()[pri:1, instance:com.appium.journeystests.RegistrationTest@1df90b0]" name="registration" duration-ms="21541" started-at="2020-09-16T03:44:01Z" finished-at="2020-09-16T03:44:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.appium.journeystests.RegistrationTest@1df90b0]" name="tearDown" is-config="true" duration-ms="684" started-at="2020-09-16T03:44:23Z" finished-at="2020-09-16T03:44:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.appium.journeystests.RegistrationTest@1df90b0]" name="setup" is-config="true" duration-ms="8512" started-at="2020-09-16T03:44:23Z" finished-at="2020-09-16T03:44:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="alreadySignUp()[pri:2, instance:com.appium.journeystests.RegistrationTest@1df90b0]" name="alreadySignUp" duration-ms="13387" started-at="2020-09-16T03:44:32Z" finished-at="2020-09-16T03:44:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alreadySignUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.appium.journeystests.RegistrationTest@1df90b0]" name="tearDown" is-config="true" duration-ms="583" started-at="2020-09-16T03:44:45Z" finished-at="2020-09-16T03:44:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.appium.journeystests.RegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
